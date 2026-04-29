@@ -1,6 +1,5 @@
 <img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/AnalyticsPortfolio/blob/main/Images/Banner.jpg"/>
 
-<h2><h2>
 <h2><b>About Repository</b></h2>
 This repository serves as a data analyst portfolio built around a fictional company, Cacao & Co., and showcases a collection of projects using a single, consistent dataset sourced from Kaggle. Each project is designed to simulate real-world scenarios I’ve worked on across the Banking and iGaming industries, demonstrating practical, end-to-end analytical thinking.
 
