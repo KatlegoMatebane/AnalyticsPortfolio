@@ -1,4 +1,4 @@
-<img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/AnalyticsPortfolio/blob/main/Images/Banner.jpg"/>
+<img align="left" alt="Java" width="1700px" style="padding-right:10px;" src="https://github.com/KatlegoMatebane/AnalyticsPortfolio/blob/main/Images/Banner.jpg"/><br>
 
 
 ### About Repository
